@@ -13,6 +13,7 @@
           buildInputs = [
             nodejs
             (pkgs.yarn.override { inherit nodejs; })
+            pkgs.go
           ];
 
           shellHook = /* sh */ ''
