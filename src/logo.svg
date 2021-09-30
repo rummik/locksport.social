@@ -1,53 +1,53 @@
 <svg height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
-	<!--
-		Icons made by iconixar (https://www.flaticon.com/authors/iconixar)
+  <!--
+    Icons made by iconixar (https://www.flaticon.com/authors/iconixar)
 
-		https://www.flaticon.com/free-icon/ice-cream_3753904
-		https://www.flaticon.com/free-icon/padlock_3225459
+    https://www.flaticon.com/free-icon/ice-cream_3753904
+    https://www.flaticon.com/free-icon/padlock_3225459
 
-		Icons made by Good Ware (https://www.flaticon.com/authors/good-ware)
-		https://www.flaticon.com/free-icon/lockpick_5524357
-	-->
+    Icons made by Good Ware (https://www.flaticon.com/authors/good-ware)
+    https://www.flaticon.com/free-icon/lockpick_5524357
+  -->
 
-	<g name="lockpick" transform="translate(130 -75) scale(3) rotate(16)">
-		<path d="m94.847 67.88a1.75 1.75 0 0 1 -1.75-1.75v-46.769a1.777 1.777 0 0 1 .075-.506l3.736-12.361a1.75 1.75 0 0 1 3.351 1.012l-3.659 12.114v46.51a1.75 1.75 0 0 1 -1.753 1.75z" fill="#dadcde" />
-		<path d="m94.847 121a6.153 6.153 0 0 1 -6.153-6.153v-51.058a6.153 6.153 0 0 1 6.153-6.153 6.153 6.153 0 0 1 6.153 6.153v51.058a6.153 6.153 0 0 1 -6.153 6.153z" transform="translate(0 -20)" fill="#966651" />
-	</g>
+  <g name="lockpick" transform="translate(130 -75) scale(3) rotate(16)">
+    <path d="m94.847 67.88a1.75 1.75 0 0 1 -1.75-1.75v-46.769a1.777 1.777 0 0 1 .075-.506l3.736-12.361a1.75 1.75 0 0 1 3.351 1.012l-3.659 12.114v46.51a1.75 1.75 0 0 1 -1.753 1.75z" fill="#dadcde" />
+    <path d="m94.847 121a6.153 6.153 0 0 1 -6.153-6.153v-51.058a6.153 6.153 0 0 1 6.153-6.153 6.153 6.153 0 0 1 6.153 6.153v51.058a6.153 6.153 0 0 1 -6.153 6.153z" transform="translate(0 -20)" fill="#966651" />
+  </g>
 
-	<g name="icecream">
-		<path d="m304 24-82.63 13.772a16 16 0 0 0 -13.37 15.782v18.446h96z" fill="#ff9494"/>
-		<path d="m318.408 57.759-128 12.8a16 16 0 0 0 -14.408 15.921v17.52h160v-30.32a16 16 0 0 0 -17.592-15.921z" fill="#eb423f"/>
-		<path d="m334.671 89.444-160 13.333a16 16 0 0 0 -14.671 15.945v17.278h192v-30.611a16 16 0 0 0 -17.329-15.945z" fill="#ff9494"/>
-		<path d="m350.86 121.224-192 14a16 16 0 0 0 -14.86 15.961v33.1h224v-46.816a16 16 0 0 0 -17.14-15.96z" fill="#eb423f"/>
-	</g>
+  <g name="icecream">
+    <path d="m304 24-82.63 13.772a16 16 0 0 0 -13.37 15.782v18.446h96z" fill="#ff9494"/>
+    <path d="m318.408 57.759-128 12.8a16 16 0 0 0 -14.408 15.921v17.52h160v-30.32a16 16 0 0 0 -17.592-15.921z" fill="#eb423f"/>
+    <path d="m334.671 89.444-160 13.333a16 16 0 0 0 -14.671 15.945v17.278h192v-30.611a16 16 0 0 0 -17.329-15.945z" fill="#ff9494"/>
+    <path d="m350.86 121.224-192 14a16 16 0 0 0 -14.86 15.961v33.1h224v-46.816a16 16 0 0 0 -17.14-15.96z" fill="#eb423f"/>
+  </g>
 
-	<g name="padlock" transform="translate(32 -24) scale(0.48) rotate(-30 255 255)">
-		<g name="hasp" transform="translate(0 65)">
-			<path d="m176 88v176h32v-176a32 32 0 0 1 32-32h16a32 32 0 0 1 32 32v112h32v-112a64 64 0 0 0 -64-64h-16a64 64 0 0 0 -64 64z" fill="#dadcde" />
-		</g>
-		<path name="body" d="m160 264h176v224h-176z" fill="#ffb632"/>
-		<path d="m288 408h64v32h-64z" fill="#f2c837"/>
-		<path d="m288 376h64v32h-64z" fill="#ffd33a"/>
-		<path d="m288 344h64v32h-64z" fill="#f2c837"/>
-		<path d="m288 312h64v32h-64z" fill="#ffd33a"/>
-		<path d="m192 296h64v160h-64z" fill="#ffd33a"/>
-	</g>
+  <g name="padlock" transform="translate(32 -24) scale(0.48) rotate(-30 255 255)">
+    <g name="hasp" transform="translate(0 65)">
+      <path d="m176 88v176h32v-176a32 32 0 0 1 32-32h16a32 32 0 0 1 32 32v112h32v-112a64 64 0 0 0 -64-64h-16a64 64 0 0 0 -64 64z" fill="#dadcde" />
+    </g>
+    <path name="body" d="m160 264h176v224h-176z" fill="#ffb632"/>
+    <path d="m288 408h64v32h-64z" fill="#f2c837"/>
+    <path d="m288 376h64v32h-64z" fill="#ffd33a"/>
+    <path d="m288 344h64v32h-64z" fill="#f2c837"/>
+    <path d="m288 312h64v32h-64z" fill="#ffd33a"/>
+    <path d="m192 296h64v160h-64z" fill="#ffd33a"/>
+  </g>
 
-	<g name="padlock-ripple" transform="translate(140 190) rotate(-30)" fill="#eb423f">
-		<circle cx="16" r="16" />
-		<circle cx="44" r="16" />
-		<circle cx="72" r="16" />
-		<circle cx="100" r="16" />
-		<rect width="116" height="64" />
-	</g>
+  <g name="padlock-ripple" transform="translate(140 190) rotate(-30)" fill="#eb423f">
+    <circle cx="16" r="16" />
+    <circle cx="44" r="16" />
+    <circle cx="72" r="16" />
+    <circle cx="100" r="16" />
+    <rect width="116" height="64" />
+  </g>
 
-	<g name="cup">
-		<path d="m240 358h32v99h-32z" fill="#e9eef2"/>
-		<path d="m112 215h288a0 0 0 0 1 0 0v48a96 96 0 0 1 -96 96h-96a96 96 0 0 1 -96-96v-48a0 0 0 0 1 0 0z" fill="#dadcde"/>
-		<path d="m144 216h224a0 0 0 0 1 0 0v48a64 64 0 0 1 -64 64h-96a64 64 0 0 1 -64-64v-48a0 0 0 0 1 0 0z" fill="#c7312e"/>
-		<path d="m320 456h-128a32 32 0 0 0 -32 32h192a32 32 0 0 0 -32-32z" fill="#dadcde"/>
-		<path d="m400 216h-288a16 16 0 0 1 -16-16 16 16 0 0 1 16-16h288a16 16 0 0 1 16 16 16 16 0 0 1 -16 16z" fill="#e9eef2"/>
-	</g>
+  <g name="cup">
+    <path d="m240 358h32v99h-32z" fill="#e9eef2"/>
+    <path d="m112 215h288a0 0 0 0 1 0 0v48a96 96 0 0 1 -96 96h-96a96 96 0 0 1 -96-96v-48a0 0 0 0 1 0 0z" fill="#dadcde"/>
+    <path d="m144 216h224a0 0 0 0 1 0 0v48a64 64 0 0 1 -64 64h-96a64 64 0 0 1 -64-64v-48a0 0 0 0 1 0 0z" fill="#c7312e"/>
+    <path d="m320 456h-128a32 32 0 0 0 -32 32h192a32 32 0 0 0 -32-32z" fill="#dadcde"/>
+    <path d="m400 216h-288a16 16 0 0 1 -16-16 16 16 0 0 1 16-16h288a16 16 0 0 1 16 16 16 16 0 0 1 -16 16z" fill="#e9eef2"/>
+  </g>
 
-	<path name="drip" d="m208 183h-64v113a16 16 0 0 0 16 16 16 16 0 0 0 16-16v-64a16 16 0 0 1 16-16 16 16 0 0 1 16 16v16a16 16 0 0 0 16 16 16 16 0 0 0 16-16v-65z" fill="#eb423f"/>
+  <path name="drip" d="m208 183h-64v113a16 16 0 0 0 16 16 16 16 0 0 0 16-16v-64a16 16 0 0 1 16-16 16 16 0 0 1 16 16v16a16 16 0 0 0 16 16 16 16 0 0 0 16-16v-65z" fill="#eb423f"/>
 </svg>
