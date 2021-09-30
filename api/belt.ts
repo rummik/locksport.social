@@ -23,7 +23,7 @@ export default async function belt(
   const svg = await readFile(__dirname + '/../svg/belt.svg', 'utf8');
   const color = parseColor(req.query.color || 'white');
   const mode = req.query.mode === 'png' ? 'png' : 'svg';
-  const size = Math.min(Math.max(parseInt(req.query.size as string, 10), 16), 512);
+  const size = Math.min(Math.max(parseInt(req.query.size as string, 10) || 512, 16), 512);
   const belt = svg.replace(/#[0-9a-f]{6}/g, (hex: string) =>
     color.mix(new Color(hex)).hex()
   );
