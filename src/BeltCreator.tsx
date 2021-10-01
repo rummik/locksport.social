@@ -30,7 +30,7 @@ export default function BeltCreator() {
         <ColorBox value={value} onChange={setValue} palette={palette} disableAlpha />
       </Paper>
       <Box sx={{ overflow: 'auto', maxHeight: '100vh' }}>
-        <img src={`/api/belt?color=${color}&${Math.random()}`} alt="Belt" />
+        <img src={`/api/belt?color=${color}`} alt="Belt" />
       </Box>
     </Box>
   );
