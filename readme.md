@@ -5,6 +5,5 @@ A social connector for locksport enthusiasts.  Currently a work-in-process.
 ## Belt creator
 Simple belt creator. https://locksport.social/belt-creator
 
-### Examples
-![Green Belt](https://locksport.social/api/belt?color=008000)
+### Example
 ![Red Belt](https://locksport.social/api/belt?color=FF0000)
