@@ -1,5 +1,5 @@
-# Locksport Social
 ![GitHub deployments](https://img.shields.io/github/deployments/rummik/locksport.social/production?label=deployment)
+# Locksport Social
 A social connector for locksport enthusiasts.  Currently a work-in-process.
 
 ## Belt creator
