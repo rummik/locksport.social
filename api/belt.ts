@@ -27,7 +27,7 @@ export default async function belt(
   const svg = await readFile(`${__dirname}/../svg/belt.svg`, 'utf8');
 
   const belt = svg.replace(/#[0-9A-Fa-f]{6}/g, (hex: string) =>
-    new Color(hex).lighten(0.8).mix(color).hex()
+    new Color(hex).darken(0.5).lighten(color.lightness() * 0.026).mix(color).hex()
   );
 
   switch (mode) {
