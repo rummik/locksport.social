@@ -25,12 +25,12 @@ export default function BeltCreator() {
   const [ color ] = useDebounce(value.hex, 100);
 
   return (
-    <Box>
-      <Paper sx={{ m: 1, mr: 2, p: 1, width: 'min-content', float: 'left' }}>
+    <Box sx={{ m: 'auto', display: 'flex', flexDirection: 'column', textAlign: 'center' }}>
+      <Paper sx={{ m: 'auto', p: 1, width: 'min-content' }}>
         <ColorBox value={value} onChange={setValue} palette={palette} disableAlpha />
       </Paper>
-      <Box sx={{ overflow: 'auto', maxHeight: '100vh' }}>
-        <img src={`/api/belt?color=${color}`} alt="Belt" />
+      <Box sx={{ maxHeight: '100vh', overflow: 'hidden' }}>
+        <img src={`/api/belt?color=${color}`} alt="Belt" style={{ margin: '-120px 0' }} />
       </Box>
     </Box>
   );
